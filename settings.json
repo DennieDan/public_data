@@ -6,7 +6,7 @@
     "phaseModeration"
   ],
   "phaseBugReporting": "bugreporting",
-  "phaseTeamResponse": "pe-results",
+  "phaseTeamResponse": "bugreporting",
   "phaseTesterResponse": "bugreporting",
-  "phaseModeration": "pe-evaluation"
+  "phaseModeration": "bugreporting"
 }
